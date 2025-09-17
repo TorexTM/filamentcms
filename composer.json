@@ -7,9 +7,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
-        "lara-zeus/sky": "^4.0",
-        "lara-zeus/spatie-translatable": "*",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1"
     },
@@ -20,9 +17,9 @@
         "laravel/sail": "^1.41",
         "mockery/mockery": "^1.6",
         "nunomaduro/collision": "^8.6",
-        "phpunit/phpunit": "^11.5.3",
-        "secondnetwork/blade-tabler-icons": "^3.34"
+        "phpunit/phpunit": "^11.5.3"
     },
+    
     "autoload": {
         "psr-4": {
             "App\\": "app/",
